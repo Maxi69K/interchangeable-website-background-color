@@ -1,0 +1,53 @@
+/*   random images:      https://source.unsplash.com/random    */
+/* @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap'); */
+
+/* font-family: 'Akaya Telivigala', cursive; */
+/**********************************************
+                Global styles
+**********************************************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+h1,
+h2 {
+  font-family: 'Raleway', Arial, sans-serif;
+}
+
+body {
+  height: 100vh;
+}
+
+/**********************************************
+                Specific styles
+**********************************************/
+input {
+  transform: scale(.7);
+}
+
+.background-1 {
+  background-color: #9c27b0;
+}
+
+.background-2 {
+  background-color: #2196F3;
+}
+
+.background-3 {
+  background-color: #F44336;
+}
+
+.background-4 {
+  background-color: #000;
+  color: #fff;
+}
+
+/**************************************
+            @media Queries
+**************************************/
+
+/* @media all and (min-width: 576px) {
+} */
